@@ -5,3 +5,4 @@ numpy
 scipy
 openpyxl
 python-multipart
+scikit-learn
